@@ -3,3 +3,6 @@ description: School, life, friends and family
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+path: /blog
+url:  'http://susan-z.github.io/blog'
