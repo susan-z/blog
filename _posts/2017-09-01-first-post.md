@@ -22,7 +22,8 @@ Personal:
 * Appreciate more the people who are there for you
 * Do not be so intimidated by others and their accomplishments or aura
 
-![](https://github.com/susan-z/blog/blob/gh-pages/img/myroom.jpg?raw=true) 
-<figcaption class="caption">Room Decor</figcaption>
+| ![](https://github.com/susan-z/blog/blob/gh-pages/img/myroom.jpg?raw=true) |
+|:------------:|
+|  Room Decor  |
 
 ---
